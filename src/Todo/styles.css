@@ -1,0 +1,31 @@
+.container-todo {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+
+    background: #609AF7;
+    max-width: 320px;
+
+    border-radius: 10px;
+    font-weight: bold;
+    color: #FFF;
+
+    margin-top: 20px;
+}
+
+.container-todo li {
+    margin-right: 20px;
+}
+
+.container-todo button {
+    background: #166BF5;
+    border: none;
+    color: #FFF;
+    font-weight: bold;
+    padding: 8px;
+
+    border-radius: 8px;
+    
+    cursor: pointer;
+}

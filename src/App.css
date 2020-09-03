@@ -1,0 +1,30 @@
+body {
+  color: #f0f0f0;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+form input {
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.7);
+  margin-right: 15px;
+}
+
+form button {
+  background: #166BF5;
+  border: none;
+  color: #FFF;
+  font-weight: bold;
+  padding: 8px;
+
+  border-radius: 8px;
+  cursor: pointer;
+}
